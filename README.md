@@ -1,6 +1,7 @@
 # workshop-javascript-testing
 
 Workshop given with Ynov's students
+Coucou =)
 
 ## Install
 
@@ -9,4 +10,3 @@ Workshop given with Ynov's students
 ## launch tests
 
 	npm test
-
